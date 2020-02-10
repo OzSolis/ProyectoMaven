@@ -86,7 +86,7 @@
     
     </dependencies>
   
-  <project>
+
   <build>
     <pluginManagement>
       <plugins>
